@@ -10,8 +10,7 @@ public class Examen2 {
         int nota1 ;
         int nota2 ;
         int nota3 ;
-        int suma = 0;
-        int notaMedia ;       
+        int suma ;   
         boolean entradaValida = false;
     
         try (Scanner entrada = new Scanner(System.in)) {
